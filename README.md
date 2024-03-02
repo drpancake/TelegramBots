@@ -23,6 +23,7 @@
 * [@InviteMemberBot](https://t.me/InviteMemberBot) - membership bot platform for paid Telegram channels and groups
 * [@podcastly_bot](https://t.me/podcastly_bot) - Find new podcasts, deliver notification on new episods.
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Integration of Yandex.Disk. This bot can upload different files (photos, video, audio, etc.) to Yandex.Disk (cloud storage).
+* [@mealschatbot](https://t.me/mealschatbot) - Send a photo of your food or drink and it calculates the calories, ingredients and macros with AI.
 
 ### Inline Bots
 
